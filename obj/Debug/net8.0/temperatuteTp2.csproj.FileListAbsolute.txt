@@ -1,0 +1,14 @@
+C:\Users\badboy_17\Desktop\temperatuteTp2\bin\Debug\net8.0\temperatuteTp2.exe
+C:\Users\badboy_17\Desktop\temperatuteTp2\bin\Debug\net8.0\temperatuteTp2.deps.json
+C:\Users\badboy_17\Desktop\temperatuteTp2\bin\Debug\net8.0\temperatuteTp2.runtimeconfig.json
+C:\Users\badboy_17\Desktop\temperatuteTp2\bin\Debug\net8.0\temperatuteTp2.dll
+C:\Users\badboy_17\Desktop\temperatuteTp2\bin\Debug\net8.0\temperatuteTp2.pdb
+C:\Users\badboy_17\Desktop\temperatuteTp2\obj\Debug\net8.0\temperatuteTp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\badboy_17\Desktop\temperatuteTp2\obj\Debug\net8.0\temperatuteTp2.AssemblyInfoInputs.cache
+C:\Users\badboy_17\Desktop\temperatuteTp2\obj\Debug\net8.0\temperatuteTp2.AssemblyInfo.cs
+C:\Users\badboy_17\Desktop\temperatuteTp2\obj\Debug\net8.0\temperatuteTp2.csproj.CoreCompileInputs.cache
+C:\Users\badboy_17\Desktop\temperatuteTp2\obj\Debug\net8.0\temperatuteTp2.dll
+C:\Users\badboy_17\Desktop\temperatuteTp2\obj\Debug\net8.0\refint\temperatuteTp2.dll
+C:\Users\badboy_17\Desktop\temperatuteTp2\obj\Debug\net8.0\temperatuteTp2.pdb
+C:\Users\badboy_17\Desktop\temperatuteTp2\obj\Debug\net8.0\temperatuteTp2.genruntimeconfig.cache
+C:\Users\badboy_17\Desktop\temperatuteTp2\obj\Debug\net8.0\ref\temperatuteTp2.dll
